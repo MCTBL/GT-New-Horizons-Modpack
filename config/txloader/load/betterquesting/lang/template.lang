@@ -8629,7 +8629,7 @@ betterquesting.quest.mk3rQ7LUQjC96FsFvDedKA.desc=Now with fluid support!
 
 # Quest: Thaumometric Essentia Cell
 betterquesting.quest.muXTNgpiRE6RZI_x7GW62w.name=Thaumometric Essentia Cell
-betterquesting.quest.muXTNgpiRE6RZI_x7GW62w.desc=Contains infinite essentia for all your thaumic crafting needs
+betterquesting.quest.muXTNgpiRE6RZI_x7GW62w.desc=Behold the §5Thaumometric Essentia Cell§r, your unlimited magic credit card. Feeling a little low on essentia? With this baby, you'll be rolling in it like a wizard in a potion shop! Try to run this well dry — dare ya, it's like trying to spend Bill Gates' fortune in a dollar store!
 
 # Quest: Fluid Quantum Storage
 betterquesting.quest.ylmHogskS-Kdhs9gFrCYmA.name=Fluid Quantum Storage
@@ -13461,7 +13461,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAHHQ.desc=Sometimes you just need a Diode
 
 # Quest: Mushroom Biomes? Why Are There So Many?
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHKg.name=§1§lMushroom Biomes? Why Are There So Many?
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAHKg.desc=The GNTH pack is made for the Realistic World Generator (RWG).%n %nIf your setup uses the vanilla-biomes worldgen, you will get huge Mushroom biomes over the map. If you have this problem, please generate a new world with the RWG. %n%nIf you met this problem on a server, put "level-type=rwg" into the server.properties file and generate a new world.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAHKg.desc=The GTNH pack is made for the Realistic World Generator (RWG).%n %nIf your setup uses the vanilla-biomes worldgen, you will get huge Mushroom biomes over the map. If you have this problem, please generate a new world with the RWG. %n%nIf you met this problem on a server, put "level-type=rwg" into the server.properties file and generate a new world.
 
 # Quest: Moron's Manual for Massacring Monsters
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAHMQ.name=§1§lMoron's Manual for Massacring Monsters
